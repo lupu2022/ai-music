@@ -8989,6 +8989,9 @@ distill-header .nav a {
 }
 </style>
 <div class="content">
+  <a class="logo" href="/">
+       计算音乐
+  </a>
   <nav class="nav">
     <a href="https://ai-music.com.cn/">首页</a>
     <a href="https://faust.ai-music.com.cn/">Faust Online</a>
@@ -9139,6 +9142,7 @@ distill-header .nav a {
   <div class="nav">
     <a href="https://github.com/lupu2022">GitHub</a>
     <a href="https://weibo.com/teaonly">微博</a>
+    <a href="https://beian.miit.gov.cn/">沪ICP备2022032922号-1</a>
   </div>
 </div>
 

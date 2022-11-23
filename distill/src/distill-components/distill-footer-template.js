@@ -56,6 +56,7 @@ export const footerTemplate = `
   <div class="nav">
     <a href="https://github.com/lupu2022">GitHub</a>
     <a href="https://weibo.com/teaonly">微博</a>
+    <a href="https://beian.miit.gov.cn/">沪ICP备2022032922号-1</a>
   </div>
 </div>
 
