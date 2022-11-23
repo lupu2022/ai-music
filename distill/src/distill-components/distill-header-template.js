@@ -68,12 +68,12 @@ distill-header .nav a {
 }
 </style>
 <div class="content">
-  <a class="logo" href="/">
-       计算音乐
+  <a class="logo">
+  计算音乐：数字乐器，合成器技术，音乐AI
   </a>
   <nav class="nav">
     <a href="https://ai-music.com.cn/">首页</a>
-    <a href="https://faust.ai-music.com.cn/">Faust Online</a>
+    <a href="https://faust.ai-music.com.cn/" target="_blank">Faust Editor</a>
     <a href="https://lupu.ai-music.com.cn/">Lupu合成引擎</a>
   </nav>
 </div>

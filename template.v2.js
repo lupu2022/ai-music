@@ -8989,12 +8989,12 @@ distill-header .nav a {
 }
 </style>
 <div class="content">
-  <a class="logo" href="/">
-       计算音乐
+  <a class="logo">
+  计算音乐：数字乐器，合成器技术，音乐AI
   </a>
   <nav class="nav">
     <a href="https://ai-music.com.cn/">首页</a>
-    <a href="https://faust.ai-music.com.cn/">Faust Online</a>
+    <a href="https://faust.ai-music.com.cn/" target="_blank">Faust Editor</a>
     <a href="https://lupu.ai-music.com.cn/">Lupu合成引擎</a>
   </nav>
 </div>
@@ -9138,11 +9138,14 @@ distill-header .nav a {
 </style>
 
 <div class='footer-container'>
-  <a class="logo"> 联系方式</a>
+  <a class="logo"> 联系方式及其他 </a>
   <div class="nav">
-    <a href="https://github.com/lupu2022">GitHub</a>
-    <a href="https://weibo.com/teaonly">微博</a>
     <a href="https://beian.miit.gov.cn/">沪ICP备2022032922号-1</a>
+    <a href="https://weibo.com/teaonly">微博</a>
+    <a href="https://github.com/lupu2022">GitHub</a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://distill.pub/guide/">页面渲染技术</a>
+    <a href="https://github.com/sparanoid/chinese-copywriting-guidelines">中英文混排规则</a>
   </div>
 </div>
 
