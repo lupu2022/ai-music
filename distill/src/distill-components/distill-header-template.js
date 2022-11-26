@@ -70,10 +70,8 @@ distill-header .nav a {
 <div class="content">
   <a class="logo" href="https://ai-music.com.cn/">计算音乐</a>
   <nav class="nav">
-    <a href="https://ai-music.com.cn/">关于</a>
     <a href="https://ai-music.com.cn/book.html">《音乐合成技术入门教程》</a>
     <a href="https://faust.ai-music.com.cn/" target="_blank">Faust Editor</a>
-    <a href="https://lupu.ai-music.com.cn/">Lupu合成引擎</a>
   </nav>
 </div>
 `;
